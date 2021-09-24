@@ -1,0 +1,27 @@
+.top {
+    background-color: black;
+    width:50%;
+    height:30vh;
+    text-align:center;
+    margin-left:25%;
+    border-style:groove;
+    border-color: black;
+}
+
+.input {
+    margin-top: 5vh;
+    height: 3vh;
+    text-align:center;  
+    
+}
+
+.second{
+    width: 50%;
+    height: 30vh;
+    justify-content: center;
+    text-align:center;
+    background-color:rgb(255, 255, 255);
+    border-style:groove;
+    border-color: black;
+    margin-left:25%;
+}

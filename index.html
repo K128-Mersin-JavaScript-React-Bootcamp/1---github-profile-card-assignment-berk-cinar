@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link href="styles.css" rel="stylesheet" />
+    <script src="script.js" defer></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  </head>
+
+  <body>
+    <div class="top">
+      <h1
+        style="
+          color: aliceblue;
+          font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+            'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+          padding-top: 50px; ;
+        "
+      >
+        Github User Api
+      </h1>
+      <br />
+      <input
+        name="userName"
+        id="userName"
+        class="input"
+        placeholder="Github Username Here"
+      />
+      <button class="input" onClick="handleClick" id="myBtn" type="submit">
+        Search
+      </button>
+    </div>
+  </body>
+</html>

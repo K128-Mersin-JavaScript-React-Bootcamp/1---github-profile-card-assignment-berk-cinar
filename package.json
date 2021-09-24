@@ -1,0 +1,22 @@
+{
+  "name": "kodluyoruz-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berk-cinar/Kodluyoruz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berk-cinar/Kodluyoruz/issues"
+  },
+  "homepage": "https://github.com/berk-cinar/Kodluyoruz#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
